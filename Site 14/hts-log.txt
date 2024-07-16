@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Jun 2024 12:22:02 at https://eliasecuryadv.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://eliasecuryadv.com.br/ -O1 "C:\Users\User\Desktop\Sites html Advogados\Site 14\Site 14" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:22:23	Error: 	"Connect Error" (-4) after 2 retries at link https://eliasecuryadv.com.br/robots.txt (from primary/primary)
+12:22:51	Error: 	"Not Found" (404) at link https://eliasecuryadv.com.br/wp-content/themes/eliasecuryadv/assets/images/img/favicon-32x32.ico (from https://eliasecuryadv.com.br/)
+12:23:54	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/direito-de-familia-conceito-principios-e-atuacao-profissional/
+12:23:54	Warning: 	File has moved from https://eliasecuryadv.com.br/direito-de-familia-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/direito-de-familia-entenda-suas-principais-questoes/
+12:24:21	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/o-que-e-direito-da-tecnologia-da-informacao/
+12:24:21	Warning: 	File has moved from https://eliasecuryadv.com.br/o-que-e-direito-da-tecnologia-da-informacao/ to https://eliasecuryadv.com.br/
+12:24:24	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/direito-contratual-conceito-principios-e-atuacao-profissional/
+12:24:24	Warning: 	File has moved from https://eliasecuryadv.com.br/direito-contratual-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/direito-contratual-entenda-seus-principios-e-aplicacao/
+12:24:54	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/direito-imobiliario-conceito-principios-e-atuacao-profissional/
+12:24:54	Warning: 	File has moved from https://eliasecuryadv.com.br/direito-imobiliario-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/entenda-o-papel-do-direito-imobiliario-e-suas-oportunidades/
+12:26:00	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/propriedade-industrial-conceito-principios-e-atuacao-profissional/
+12:26:00	Warning: 	File has moved from https://eliasecuryadv.com.br/propriedade-industrial-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/propriedade-intelectual-conceito-principios-e-atuacao-profissional/
+12:26:11	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/direito-comercial-conceito-principios-e-atuacao-profissional/
+12:26:11	Warning: 	File has moved from https://eliasecuryadv.com.br/direito-comercial-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/direito-empresarial-conceito-principios-e-atuacao-profissional/
+12:26:11	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/direito-criminal-conceito-principios-e-atuacao-profissional/
+12:26:11	Warning: 	File has moved from https://eliasecuryadv.com.br/direito-criminal-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/direito-criminal-o-que-voce-precisa-saber-para-se-defender-adequadamente/
+12:26:18	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/direito-administrativo-conceito-principios-e-atuacao-profissional/
+12:26:18	Warning: 	File has moved from https://eliasecuryadv.com.br/direito-administrativo-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/entenda-a-importancia-do-direito-tributario-no-brasil/
+12:28:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://eliasecuryadv.com.br/)
+12:30:56	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/propriedade-intelectual-conceito-principios-e-atuacao-profissional/
+12:30:56	Warning: 	File has moved from https://eliasecuryadv.com.br/propriedade-intelectual-conceito-principios-e-atuacao-profissional/ to https://eliasecuryadv.com.br/propriedade-intelectual-conceito-principios-e-atuacao/
+12:35:35	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/portal/page/1/
+12:35:35	Warning: 	File has moved from https://eliasecuryadv.com.br/portal/page/1/ to https://eliasecuryadv.com.br/portal/
+12:37:41	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/noticias/page/1/
+12:37:41	Warning: 	File has moved from https://eliasecuryadv.com.br/noticias/page/1/ to https://eliasecuryadv.com.br/noticias/
+12:38:35	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/author/eliasecuryadv-com-br/page/1/
+12:38:35	Warning: 	File has moved from https://eliasecuryadv.com.br/author/eliasecuryadv-com-br/page/1/ to https://eliasecuryadv.com.br/author/eliasecuryadv-com-br/
+12:38:38	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/tag/danos-morais/page/1/
+12:38:38	Warning: 	File has moved from https://eliasecuryadv.com.br/tag/danos-morais/page/1/ to https://eliasecuryadv.com.br/tag/danos-morais/
+12:38:40	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/tag/indenizacao/page/1/
+12:38:40	Warning: 	File has moved from https://eliasecuryadv.com.br/tag/indenizacao/page/1/ to https://eliasecuryadv.com.br/tag/indenizacao/
+12:38:45	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/author/azis-elias/page/1/
+12:38:45	Warning: 	File has moved from https://eliasecuryadv.com.br/author/azis-elias/page/1/ to https://eliasecuryadv.com.br/author/azis-elias/
+12:38:48	Warning: 	Moved Permanently for https://eliasecuryadv.com.br/direito-de-familia/page/1/
+12:38:48	Warning: 	File has moved from https://eliasecuryadv.com.br/direito-de-familia/page/1/ to https://eliasecuryadv.com.br/direito-de-familia/
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 14 seconds : 1448 links scanned, 1429 files written (110713904 bytes overall) [33937542 bytes received at 32821 bytes/sec], 96590596 bytes transferred using HTTP compression in 1004 files, ratio 18%, 24.5 requests per connection
+(3 errors, 32 warnings, 0 messages)
